@@ -1,5 +1,4 @@
 
-import './App.css'
 import { GifExpertApp } from './GifExpertApp';
 
 function App() {
