@@ -1,9 +1,7 @@
-
 import { GifExpertApp } from './GifExpertApp';
+import './App.css'
 
 function App() {
-
-
   return (
     <>
       <GifExpertApp />
